@@ -1,4 +1,1 @@
-# websites
-website projects here
-
-## Second month continues here
+# *2nd month of the journey continues here *
