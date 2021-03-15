@@ -1,8 +1,9 @@
 import styled from 'styled-components';
 import { NavLink as Link } from 'react-router-dom';
+import { GiSushis } from 'react-icons/gi';
 
-export const Nav_container = styled.nav`
-    background: red;
+export const Nav = styled.nav`
+    background: transparent;
     height: 80px;
     display:flex;
     justify-content:center;
@@ -31,6 +32,11 @@ export const NavIcon = styled.div`
     color: #fff;
 
     p {
-        transform
+        transform: translate(-175%,100%);
+        font-weight:bold
     }
+`
+export const Bars = styled(GiSushis)`
+    font-size: 2rem;
+    transform: translate()(-50%, -15%);
 `
