@@ -9,6 +9,7 @@ import {
     SidebarRoute 
 } from './SidebarElements'
 
+
 const Sidebar = ({isOpen, toggle}) => {
     return (
         <SidebarContainer isOpen={isOpen} onClick={toggle}>
@@ -16,14 +17,16 @@ const Sidebar = ({isOpen, toggle}) => {
                 <CloseIcon />
             </Icon>
             <SidebarMenu>
-                <SidebarLink to="/">Sushi Roll</SidebarLink>
+                <SidebarLink to='/Footer'>Sushi Roll</SidebarLink>
                 <SidebarLink to="/">Sushi Nigiri</SidebarLink>
                 <SidebarLink to="/">Full Menu</SidebarLink>
             </SidebarMenu>
+
             <SideBtnWrap>
                 <SidebarRoute to="/">Order Now</SidebarRoute>
             </SideBtnWrap>
         </SidebarContainer>
+        
     )
 }
 

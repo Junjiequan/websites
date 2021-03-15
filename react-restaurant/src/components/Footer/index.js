@@ -15,7 +15,7 @@ import {
 
 const Footer = () => {
     return (
-        <FooterContainer>
+        <FooterContainer >
             <FooterWrap>
                 <SocialMedia>
                     <SocialMediaWrap>
