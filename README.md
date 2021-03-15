@@ -3,6 +3,6 @@
 ## build Website with React:
  >[ReactWebSite](https://a331998513.github.io/websites/)
  
- >_[Original tutorial link]_ (https://www.youtube.com/watch?v=GlROncAX4XI&t=1416s)
+ >[_Original tutorial link_](https://www.youtube.com/watch?v=GlROncAX4XI&t=1416s)
 
 **main goal:** To get familiar with process of building react website.
