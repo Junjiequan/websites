@@ -19,7 +19,7 @@ const Footer = () => {
             <FooterWrap>
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SocialLogo to='/'>Sushi</SocialLogo>
+                        <SocialLogo to='/'>Sushi Shop</SocialLogo>
                         <SocialIcons>
                             <SocialIconLink href="/" target="_blank"
                             aria-label="Facebook" rel="noreferrer noopener">

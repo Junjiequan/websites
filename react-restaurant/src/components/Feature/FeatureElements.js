@@ -26,7 +26,6 @@ export const FeatureContainer = styled.div`
          margin-bottom:1.5rem;
      }
      p{
-         
          margin-bottom:0.5rem;
          font-size: clamp(1rem, 3vw, 2rem);
      }

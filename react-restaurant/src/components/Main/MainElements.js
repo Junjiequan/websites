@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import ImgBg from '../../images/sushi-main.jpg'
 
-export const HeroContainer = styled.div`
+export const MainContainer = styled.div`
     background: linear-gradient(to right, rgba(0,0,0,0.7),rgba(0,0,0,0.1)), 
      url(${ImgBg});
      height: 100vh;
@@ -9,14 +9,14 @@ export const HeroContainer = styled.div`
      background-size:cover;
 `
 
-export const HeroContent = styled.div`
+export const MainContent = styled.div`
     height: calc(100vh -80px);
     max-height: 100%;
     max-width: 100%;
     width: 100vw;
     padding: 0rem calc((100vw - 1500px) /2);
 `
-export const HeroItems = styled.div`
+export const MainItems = styled.div`
     display:flex;
     flex-direction: column;
     justify-content:center;
@@ -34,20 +34,20 @@ export const HeroItems = styled.div`
     width:100%;
 }
 `
-export const HeroH1 = styled.h1`
+export const MainH1 = styled.h1`
     font-size: clamp(2.5rem, 10vw, 5rem);
     margin-bottom: 1.4rem;
     box-shadow: 3px 4px #e9ba23;
     letter-spacing: 3px;
 `
-export const HeroSpan = styled.span`
+export const MainSpan = styled.span`
     color:#e9ba23;
 `
-export const HeroP = styled.p`
+export const MainP = styled.p`
     font-size: clamp(1.5rem, 2.5vw, 2rem);
     margin-bottom:1.2rem;
 `
-export const HeroBtn = styled.button`
+export const MainBtn = styled.button`
     font-size:1.4rem;
     padding: 1rem 4rem;
     border: none;
