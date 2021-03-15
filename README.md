@@ -4,7 +4,7 @@
  >[ReactWebSite - SushiShopTheme](https://a331998513.github.io/websites/)
  
 
-**main goal:** To learn the process of building react website. No creativity here. Just follow the tutorial.
+**main goal:** To learn the process of building react website. No creativity here.
 
 **process:** Strictly followed the tutorial with slight changes.
 
