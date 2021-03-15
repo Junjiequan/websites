@@ -12,7 +12,7 @@ export const HeroContainer = styled.div`
 export const HeroContent = styled.div`
     height: calc(100vh -80px);
     max-height: 100%;
-    width: 100vw;
+    width: 100%;
     padding: 0rem calc((100vw - 1300px) /2);
 `
 export const HeroItems = styled.div`
@@ -23,7 +23,7 @@ export const HeroItems = styled.div`
     height:100vh;
     max-height: 100%;
     padding:0 2rem;
-    width: 650px;
+    width: 640px;
     color: #fff;
     text-transform: uppercase;
     line-height:1;
@@ -34,7 +34,30 @@ export const HeroItems = styled.div`
 }
 `
 export const HeroH1 = styled.h1`
-    font-size: clamp(2.5rem, 10vw, 5rem)
+    font-size: clamp(2.5rem, 10vw, 5rem);
+    margin-bottom: 1.5rem;
+    box-shadow: 3px 4px #e9ba23;
+    letter-spacing: 3px;
 `
-export const HeroP = styled.div``
-export const HeroBtn = styled.div``
+export const HeroSpan = styled.span`
+    color:#e9ba23;
+`
+export const HeroP = styled.p`
+    font-size: clamp(2rem, 2.5vw, 3rem);
+    margin-bottom:2rem;
+`
+export const HeroBtn = styled.button`
+    font-size:1.4rem;
+    padding: 1rem 4rem;
+    border: none;
+    background: #e31837;
+    color: #fff;
+    transition: 0.2s ease-out;
+
+    &::hover {
+        background:#ffc500;
+        transition: 0.2s ease-out;
+        cursor: pointer;
+        color: #000;
+    }
+`
