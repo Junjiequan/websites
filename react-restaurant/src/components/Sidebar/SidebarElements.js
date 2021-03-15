@@ -12,7 +12,7 @@ export const SidebarContainer = styled.aside`
     align-items:center;
     top:0;
     transition:0.3s ease-in-out;
-    right: ${({ isOpen }) =>(isOpen ? '0' : '-1000px')};
+    right: ${({ isOpen }) =>(isOpen ? '0' : '-1050px')};
 
     @media screen and (max-width: 400px){
         width: 100%;
@@ -40,7 +40,7 @@ export const SidebarMenu = styled.div`
     text-align:center;
 
     @media screen and (max-width: 480px){
-        grid-template-rows: repeat()(3, 40px);
+        grid-template-rows: repeat(3, 40px);
     }
 
 `
@@ -75,11 +75,11 @@ export const SidebarRoute = styled(Link)`
     outline: none;
     border: none;
     cursor: pointer;
-    transition: 0.2 ease-in-out;
+    transition: 0.2s ease-in-out;
     text-decoration: none;
     &:hover {
-        transition: 0.2s ease-in-ease-out;
+        transition: 0.2s ease-in-out;
         background: #fff;
-        color: #010606;
+        color: #130d01;
     }
 `

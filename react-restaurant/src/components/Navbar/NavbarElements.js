@@ -11,16 +11,18 @@ export const Nav = styled.nav`
 `;
 export const NavLink = styled(Link)`
     color: #fff;
-    font-size: 2rem;
+    font-size: 2.5rem;
     display: flex;
     align-items: center;
     text-decoration: none;
     cursor: pointer;
     font-weight:400;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 0 0 3px black;
 
     @media screen and (max-width: 400px){
         position: absolute;
-        top: 10px;
+        top: 15px;
         left: 25px;
     }
 `;
@@ -32,7 +34,6 @@ export const NavIcon = styled.div`
     right: 0;
     cursor: pointer;
     color: #fff;
-
     p {
         transform: translate(-130%,100%);
         background-color: rgba(0,0,0,0.9);

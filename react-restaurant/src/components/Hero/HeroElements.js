@@ -1,8 +1,8 @@
 import styled from 'styled-components'
-import ImgBg from '../../images/sushi-1.jpg'
+import ImgBg from '../../images/sushi-main.jpg'
 
 export const HeroContainer = styled.div`
-    background: linear-gradient(to right, rgba(0,0,0,0.7),rgba(0,0,0,0.7)), 
+    background: linear-gradient(to right, rgba(0,0,0,0.7),rgba(0,0,0,0.1)), 
      url(${ImgBg});
      height: 100vh;
      background-position:center;
@@ -12,7 +12,8 @@ export const HeroContainer = styled.div`
 export const HeroContent = styled.div`
     height: calc(100vh -80px);
     max-height: 100%;
-    width: 100%;
+    max-width: 100%;
+    width: 100vw;
     padding: 0rem calc((100vw - 1500px) /2);
 `
 export const HeroItems = styled.div`
