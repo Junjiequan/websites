@@ -16,6 +16,7 @@ export const NavLink = styled(Link)`
     align-items: center;
     text-decoration: none;
     cursor: pointer;
+    font-weight:400;
 
     @media screen and (max-width: 400px){
         position: absolute;
@@ -24,6 +25,7 @@ export const NavLink = styled(Link)`
     }
 `;
 export const NavIcon = styled.div`
+    font-weight:500;
     display: block;
     position: absolute;
     top: 0;
@@ -32,8 +34,10 @@ export const NavIcon = styled.div`
     color: #fff;
 
     p {
-        transform: translate(-175%,100%);
-        font-weight:bold
+        transform: translate(-130%,100%);
+        background-color: rgba(0,0,0,0.9);
+        padding: 0.1rem 0.5rem;
+
     }
 `
 export const Bars = styled(GiSushis)`

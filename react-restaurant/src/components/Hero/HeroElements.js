@@ -13,7 +13,7 @@ export const HeroContent = styled.div`
     height: calc(100vh -80px);
     max-height: 100%;
     width: 100%;
-    padding: 0rem calc((100vw - 1300px) /2);
+    padding: 0rem calc((100vw - 1500px) /2);
 `
 export const HeroItems = styled.div`
     display:flex;
@@ -27,7 +27,7 @@ export const HeroItems = styled.div`
     color: #fff;
     text-transform: uppercase;
     line-height:1;
-    font-weight:bold;
+    font-weight:400;
 
 @media screen and (max-width:650px){
     width:100%;
@@ -35,7 +35,7 @@ export const HeroItems = styled.div`
 `
 export const HeroH1 = styled.h1`
     font-size: clamp(2.5rem, 10vw, 5rem);
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.4rem;
     box-shadow: 3px 4px #e9ba23;
     letter-spacing: 3px;
 `
@@ -43,8 +43,8 @@ export const HeroSpan = styled.span`
     color:#e9ba23;
 `
 export const HeroP = styled.p`
-    font-size: clamp(2rem, 2.5vw, 3rem);
-    margin-bottom:2rem;
+    font-size: clamp(1.5rem, 2.5vw, 2rem);
+    margin-bottom:1.2rem;
 `
 export const HeroBtn = styled.button`
     font-size:1.4rem;
@@ -54,7 +54,7 @@ export const HeroBtn = styled.button`
     color: #fff;
     transition: 0.2s ease-out;
 
-    &::hover {
+    &:hover {
         background:#ffc500;
         transition: 0.2s ease-out;
         cursor: pointer;

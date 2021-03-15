@@ -16,7 +16,7 @@ const Sidebar = () => {
                 <CloseIcon />
             </Icon>
             <SidebarMenu>
-                <SidebarLink to="/">Sushi roll</SidebarLink>
+                <SidebarLink to="/">Sushi Roll</SidebarLink>
                 <SidebarLink to="/">Sushi Nigiri</SidebarLink>
                 <SidebarLink to="/">Full Menu</SidebarLink>
             </SidebarMenu>
