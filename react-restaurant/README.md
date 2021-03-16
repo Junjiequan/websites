@@ -4,8 +4,6 @@
  >[ReactWebSite - SushiShopTheme](https://a331998513.github.io/websites/)
  
 
-**main goal:** To learn the process of building react website. No creativity here.
-
 **sources used help understanding:** [_Original tutorial link_](https://www.youtube.com/watch?v=GlROncAX4XI&t=1416s) , stackOverflow.
 
 **what have I done differently with the tutorial?**
