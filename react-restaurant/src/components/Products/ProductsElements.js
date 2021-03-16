@@ -31,12 +31,13 @@ export const ProductWrapper = styled.div`
 export const ProductCard = styled.div`
     margin: 0 2rem;
     line-height: 2;
-    width: 300px;
+    max-width: 300px;
+    min-width:200px;
     margin-bottom: 1.5rem;
 `
 export const ProductImg = styled.img`
-    height:300px;
-    min-width:300px;
+    min-height:200px;
+    min-width:200px;
     max-width:100%;
     box-shadow: 8px 8px #fdc500;
 `

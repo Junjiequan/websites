@@ -24,6 +24,7 @@ export const NavLink = styled(Link)`
         position: absolute;
         top: 15px;
         left: 25px;
+        font-size:2rem;
     }
 `;
 export const NavIcon = styled.div`
