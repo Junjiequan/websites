@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/websites/static/js/main.a665be58.chunk.js",
+    "main.js.map": "/websites/static/js/main.a665be58.chunk.js.map",
+    "runtime-main.js": "/websites/static/js/runtime-main.6054eb7a.js",
+    "runtime-main.js.map": "/websites/static/js/runtime-main.6054eb7a.js.map",
+    "static/js/2.f34bad8f.chunk.js": "/websites/static/js/2.f34bad8f.chunk.js",
+    "static/js/2.f34bad8f.chunk.js.map": "/websites/static/js/2.f34bad8f.chunk.js.map",
+    "static/js/3.4f1f2ac9.chunk.js": "/websites/static/js/3.4f1f2ac9.chunk.js",
+    "static/js/3.4f1f2ac9.chunk.js.map": "/websites/static/js/3.4f1f2ac9.chunk.js.map",
+    "index.html": "/websites/index.html",
+    "static/js/2.f34bad8f.chunk.js.LICENSE.txt": "/websites/static/js/2.f34bad8f.chunk.js.LICENSE.txt",
+    "static/media/featured1.158a57aa.jpg": "/websites/static/media/featured1.158a57aa.jpg",
+    "static/media/nirigi-1.ff64c39d.jpg": "/websites/static/media/nirigi-1.ff64c39d.jpg",
+    "static/media/nirigi-2.ff64c39d.jpg": "/websites/static/media/nirigi-2.ff64c39d.jpg",
+    "static/media/nirigi-3.ff64c39d.jpg": "/websites/static/media/nirigi-3.ff64c39d.jpg",
+    "static/media/nirigi-4.ff64c39d.jpg": "/websites/static/media/nirigi-4.ff64c39d.jpg",
+    "static/media/nirigi-5.ff64c39d.jpg": "/websites/static/media/nirigi-5.ff64c39d.jpg",
+    "static/media/nirigi-6.ff64c39d.jpg": "/websites/static/media/nirigi-6.ff64c39d.jpg",
+    "static/media/product-1.9cadd26f.jpg": "/websites/static/media/product-1.9cadd26f.jpg",
+    "static/media/product-2.72765870.jpg": "/websites/static/media/product-2.72765870.jpg",
+    "static/media/product-3.9cadd26f.jpg": "/websites/static/media/product-3.9cadd26f.jpg",
+    "static/media/product-4.9cadd26f.jpg": "/websites/static/media/product-4.9cadd26f.jpg",
+    "static/media/product-5.9cadd26f.jpg": "/websites/static/media/product-5.9cadd26f.jpg",
+    "static/media/product-6.9cadd26f.jpg": "/websites/static/media/product-6.9cadd26f.jpg",
+    "static/media/sushi-main.fb508ce3.jpg": "/websites/static/media/sushi-main.fb508ce3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6054eb7a.js",
+    "static/js/2.f34bad8f.chunk.js",
+    "static/js/main.a665be58.chunk.js"
+  ]
+}
