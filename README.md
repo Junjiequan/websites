@@ -16,7 +16,7 @@ I haven't do much differently in this practice, mostly followed the tutorial.
 
 **what have I learned building Website React?**?
 
-- create-react-app and setup from scratch. (** It was a struggle. I spend lots of time to deal with strange errors**)
+- create-react-app and setup from scratch. (**_It was a struggle. I spend lots of time to deal with strange errors_**)
 - how to use Import and Export to get and give components. 
 - cause of missing erros of 'styled-components' ,'react-router-dom' 'react-icons' and how to install them.
 - basic structure of building react website. i.e. build each part of website seperatly, then combind them together. So the entire structure is easy to understand and easy to maintain.
