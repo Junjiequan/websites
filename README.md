@@ -1,6 +1,7 @@
-# 2nd month of the journey continues here *
+# 2nd month of the journey 
 
-## build Website with React:
+
+## First Website I have built with React:
  >[ReactWebSite - SushiShopTheme](https://a331998513.github.io/websites/)
 ![image](https://user-images.githubusercontent.com/78078898/111630247-72a23300-87f2-11eb-9bc7-b906b68856dd.png)
 
