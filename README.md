@@ -11,7 +11,7 @@
 
 I haven't do much differently in this practice, mostly followed the tutorial.
 
-- expanded product items from 3 to 6 with grid-template-column;
+- expanded product items from 3 to 6 with grid-template-row;
 - added ipad compalibility with @media
 
 
