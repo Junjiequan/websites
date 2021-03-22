@@ -1,5 +1,4 @@
-# 2nd month of the journey 
-
+# 2nd month
 
 ## First Website I have built with React:
  >[ReactWebSite - SushiShopTheme](https://a331998513.github.io/websites/)
