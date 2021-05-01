@@ -1,6 +1,6 @@
 2nd month
 
-# First Website I have built with React:
+# First Website I have built(followed tutorial step by step) with React:
 
 ![image](https://user-images.githubusercontent.com/78078898/111630247-72a23300-87f2-11eb-9bc7-b906b68856dd.png)
 
